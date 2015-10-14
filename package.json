@@ -1,0 +1,25 @@
+{
+  "name": "ournet.data.websites",
+  "version": "0.1.0",
+  "description": "Ournet websites data",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ournet/ournet.data.websites.git"
+  },
+  "keywords": [
+    "ournet",
+    "data",
+    "websites"
+  ],
+  "author": "Dumitru Cantea",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^4.0.2",
+    "ournet.core": "^0.1.8",
+    "ournet.data": "^0.0.8"
+  }
+}
