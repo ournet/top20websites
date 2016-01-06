@@ -1,6 +1,6 @@
 {
   "name": "ournet.data.websites",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Ournet websites data",
   "main": "./lib/index.js",
   "scripts": {
@@ -19,7 +19,7 @@
   "license": "ISC",
   "dependencies": {
     "mongoose": "^4.0.2",
-    "ournet.core": "^0.1.8",
-    "ournet.data": "^0.0.8"
+    "ournet.core": "^0.1.10",
+    "ournet.data": "^0.0.9"
   }
 }
