@@ -1,6 +1,6 @@
 {
   "name": "ournet.data.websites",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "Ournet websites data",
   "main": "./lib/index.js",
   "scripts": {
@@ -18,8 +18,11 @@
   "author": "Dumitru Cantea",
   "license": "ISC",
   "dependencies": {
+    "bluebird": "^3.3.0",
+    "lodash": "^4.3.0",
+    "memory-cache": "^0.1.4",
     "mongoose": "^4.0.2",
-    "ournet.core": "^0.1.10",
-    "ournet.data": "^0.0.9"
+    "ournet.utils": "^0.1.0",
+    "statefulco": "^0.1.0"
   }
 }
