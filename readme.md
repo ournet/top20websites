@@ -1,3 +1,3 @@
-# ournet.data.websites
+# top20websites
 
-Ournet websites data repository.
+Top20 websites repository.
