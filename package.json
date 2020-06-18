@@ -20,7 +20,7 @@
   "dependencies": {
     "bluebird": "^3.3.0",
     "lodash": "^4.3.0",
-    "mongoose": "^4.0.2",
+    "mongoose": "^5.9.19",
     "ournet.utils": "^0.1.0",
     "statefulco": "^0.1.0"
   }
