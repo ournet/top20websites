@@ -1,6 +1,6 @@
 {
   "name": "top20websites",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "Top20 websites data",
   "main": "./lib/index.js",
   "scripts": {
