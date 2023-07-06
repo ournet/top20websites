@@ -1,6 +1,6 @@
 {
   "name": "top20websites",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "description": "Top20 websites data",
   "main": "./lib/index.js",
   "scripts": {
@@ -21,7 +21,6 @@
     "bluebird": "^3.3.0",
     "lodash": "^4.3.0",
     "mongoose": "^5.9.19",
-    "ournet.utils": "^0.1.0",
-    "statefulco": "^0.1.0"
+    "ournet.utils": "^0.1.0"
   }
 }
